@@ -1,2 +1,10 @@
-# Team2
-Team 2 
+Team2 NodeJS Project
+Members:
+Viktoryia Kochkina
+Volodymyr Zhyryk
+Dayan Yankov
+Paul Nestel
+Bettina Vinkler-Chis
+Ilkhom Kmabarov
+
+1: 
