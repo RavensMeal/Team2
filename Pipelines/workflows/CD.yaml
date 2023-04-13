@@ -52,4 +52,4 @@ jobs:
           manifests: |
             deployment.yaml
           images: |
-            your-docker-hub-username/your-image-name:latest          
+            your-docker-hub-username/your-image-name:latest
