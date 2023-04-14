@@ -1,8 +1,7 @@
-FROM 
-COPY 
-WORKDIR
-RUN
-COPY 
+FROM node:
+WORKDIR Pipelines
+COPY
+RUN npm install
 USER
-EXPOSE
-CMD 
+EXPOSE EXPOSE 3000
+CMD [ "node", "app.js" ]
