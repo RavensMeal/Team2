@@ -6,6 +6,6 @@ docker build -t  us-central1-docker.pkg.dev/terraform-project-vika/nodejs/nodejs
 # Login to artifactory
 gcloud auth configure-docker us-central1-docker.pkg.dev
 # Push docker image
-docker push    us-central1-docker.pkg.dev/terraform-project-vika/nodejs/nodejs:3.0.1  
+docker push    us-central1-docker.pkg.dev/terraform-project-vika/nodejs/nodejs:3.0.1   
 
 
