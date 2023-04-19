@@ -6,6 +6,6 @@ Volodymyr Zhyryk,
 Dayan Yankov,
 Paul Nestel,
 Bettina Vinkler-Chis, &
-Ilkhom Kmabarov
+Ilkhom Kambarov
 
-1: 
+ 
