@@ -1,4 +1,4 @@
 provider "google" {
-  project = "terraform-project-vika"
+  project = "quixotic-skill-380200"
   region  = "us-central1"
 }
