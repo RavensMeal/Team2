@@ -33,7 +33,7 @@ jobs:
 
           
       - name: helm
-        working-directory: "Charts"
+        working-directory: "/Charts/application"
         run: |
           terraform init 
 
